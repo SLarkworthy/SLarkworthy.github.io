@@ -1,11 +1,11 @@
 # Site settings
 author: Sarah Larkworthy
-title: 
+title: Adventures in Coding
 header-img: img/home-bg.png
 email: sarah.larkworthy@gmail.com
 copyright_name: Sarah Larkworthy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An opera singer's journey into a new career path.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SLarkworthy
