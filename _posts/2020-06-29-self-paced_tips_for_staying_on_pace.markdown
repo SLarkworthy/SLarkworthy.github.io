@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Self-paced Tips for Staying on Pace"
-date:       2020-06-29 20:26:47 +0000
+date:       2020-06-29 16:26:48 -0400
 permalink:  self-paced_tips_for_staying_on_pace
 ---
 
@@ -19,4 +19,4 @@ As a self-paced student of the Flatiron school, I've had to work hard to find wa
 3. Take a 20min power name
 4. If all else fails, watch coding videos that review a topic you're already mostly familiar with! This way you are still studying, but it's less taxing on your brain.
 
-Happy coding! Remember that it is a marathon and not a sprint, so come up with a sustainable pace for yourself and sprinkle in frequent short breaks!
+**Happy coding! Remember that it is a marathon and not a sprint, so come up with a sustainable pace for yourself and sprinkle in frequent short breaks!**
